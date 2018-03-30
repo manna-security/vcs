@@ -47,7 +47,7 @@ public class VcsManager {
 
         taskProcessorManager.start();
 
-        log.debug("Stopped vcs manager.");
+        log.debug("Started vcs manager.");
     }
 
     @PreDestroy
